@@ -1,1 +1,1 @@
-# Claces-de-Programacion-y-Laboratorio-en-C
+# Clases-de-Programacion-y-Laboratorio-en-C
