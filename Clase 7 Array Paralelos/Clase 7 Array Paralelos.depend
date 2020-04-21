@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587474082 source:c:\users\esteb\desktop\trabajos en c\clase 7 array paralelos\main.c
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
+1587439917 c:\users\esteb\desktop\trabajos en c\clase 7 array paralelos\funciones.h
+
+1587497665 source:c:\users\esteb\desktop\trabajos en c\clase 7 array paralelos\funciones.c
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
